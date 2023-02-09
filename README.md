@@ -29,8 +29,8 @@ In a different terminal window, run the corresponding client with a txt file inp
 \
 If you want to simulate an unreliabe connection with UDP, the parameters for the server are: \
 `p` the probability of dropping a received datagram and a integer `seed` for seeding a random number generator (for consistency) \
-Example: `py UDP_Server-Unreliable.py 0.5 2 `\
+Example: `py UDP_Server-Unreliable.py 0.5 2 `
 
 ## Motivation
-This was a means to understand how TCP and UDP works through a simple application.\
+This was a means to understand how TCP and UDP works through a simple application.
 
